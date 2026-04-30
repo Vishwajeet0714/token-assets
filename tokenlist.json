@@ -1,1 +1,19 @@
-
+{
+  "name": "My Token List",
+  "timestamp": "2026-04-30T10:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "name": "My USDT",
+      "symbol": "MUSDT",
+      "address": "TD1X9rfvsq3LQ1m9UKJ75SY6ffrVBAiHrd",
+      "decimals": 6,
+      "chainId": 728126428,
+      "logoURI": "https://raw.githubusercontent.com/Vishwajeet0714/token-assets/main/Tether_on_Fuze_TWITTER_copy.jpg"
+    }
+  ]
+}
